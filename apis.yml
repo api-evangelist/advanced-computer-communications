@@ -1,21 +1,57 @@
 aid: advanced-computer-communications
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/advanced-computer-communications.png
 name: Advanced Computer Communications
-description: Advanced Computer Communications is a company surfaced as a portfolio company of battery-ventures
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: 'Advanced Computer Communications (ACC), founded as Associated Computer Consultants, was a
+  data networking equipment vendor based in Santa Barbara, California. The company began by building IMP
+  interfaces for the ARPANET — initially for IBM 360 mainframes and later for DEC PDP-11 minicomputers —
+  and grew into a maker of wide-area internetworking products for the interconnection and management of
+  distributed computer networks, including carrier-class routers and integrated remote-access gear. In
+  1990 it sold its ACCES/MVS native TCP/IP stack for MVS to Interlink Computer Sciences. Ericsson agreed
+  to acquire ACC in 1998 for approximately USD 285 million in cash and completed the acquisition that same
+  year, after which ACC ceased to exist as an independent company. ACC predates the public web API era and
+  never operated a developer program, public API, or developer portal; no successor developer surface
+  exists under the ACC name today.'
 url: https://raw.githubusercontent.com/api-evangelist/advanced-computer-communications/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - battery-ventures
 x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier-reason: defunct-acquired-no-api-surface
+x-status: defunct
+x-acquired-by: Ericsson
+x-acquired-year: 1998
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
 tags:
 - Company
+- Networking
+- Routers
+- Wide Area Networking
+- Remote Access
+- Telecommunications
+- Networking Hardware
+- Defunct
+- Acquired
 apis: []
+common: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
