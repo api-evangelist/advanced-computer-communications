@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Advanced Computer Communications is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: battery-ventures
+Advanced Computer Communications (ACC), founded as Associated Computer Consultants, was a data networking equipment vendor based in Santa Barbara, California. The company began by building IMP interfaces for the ARPANET — initially for IBM 360 mainframes and later for DEC PDP-11 minicomputers — and grew into a maker of wide-area internetworking products for the interconnection and management of distributed computer networks, including carrier-class routers and integrated remote-access gear. In 1990 it sold its ACCES/MVS native TCP/IP stack for MVS to Interlink Computer Sciences. Ericsson agreed to acquire ACC in 1998 for approximately USD 285 million in cash and completed the acquisition that same year, after which ACC ceased to exist as an independent company. ACC predates the public web API era and never operated a developer program, public API, or developer portal; no successor developer surface exists under the ACC name today.
+
+**Areas:** Company · Networking · Router · Wide Area Networking · Remote Access · Telecommunications · Networking Hardware · Defunct · Acquired
+
+## Advanced Computer Communications on APIs.io (historical record)
+
+Everything profiled for Advanced Computer Communications is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/advanced-computer-communications/](https://apis.io/providers/advanced-computer-communications/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Advanced Computer Communications: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/advanced-computer-communications/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
